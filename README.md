@@ -182,6 +182,22 @@ You can obtain a free API key from the PicWish website.
 *   **Image Size/Resolution:** Limited by PicWish API's supported image formats, resolutions, and file sizes (up to 4096x4096, 20MB).
 *   **No Client-Side Image Pre-processing:** Currently, no client-side image resizing or compression is performed before upload.
 
+## Demo Images
+
+These images demonstrate the application's functionality, from initial image upload to the final enhanced output.
+
+### Demo 1: Initial Image Upload
+![Initial Image Upload](./src/assets/demo1.png)
+This image shows the application's interface immediately after a user uploads an image, before any enhancement process begins. It highlights the clean UI and the area where the original image is displayed.
+
+### Demo 2: Image Enhancement in Progress
+![Image Enhancement in Progress](./src/assets/demo2.png)
+This image captures the application during the image enhancement process, typically showing a loading indicator or a message indicating that the image is being processed by the PicWish API.
+
+### Demo 3: Enhanced Image Result
+![Enhanced Image Result](./src/assets/demo3.png)
+This image displays the final output after the PicWish API has successfully enhanced the uploaded image. It showcases the improved quality of the image and how it is presented to the user.
+
 ## Contribution Guidelines
 (If this project were open-source)
 1.  Fork the repository.

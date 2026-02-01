@@ -211,6 +211,6 @@ This image displays the final output after the PicWish API has successfully enha
 This project is licensed under the MIT License.
 
 ## Author / Contact Information
-*   **Author:** Vipeen
+*   **Author:** Vipeen Kumar
 *   **GitHub:** [[Vipeen Kumar](https://github.com/Vipeen-Kumar)]
-*   **Email:** [[vipeen@example.com](mailto:vipeen@example.com)]
+*   **Email:** [[vipeenk023@gmail.com](mailto:vipeenk023@gmail.com)]
